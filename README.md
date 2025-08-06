@@ -1,7 +1,7 @@
 # Advanced-Data-Mining-and-Language-Technology
 Biomedical question-answering with hybrid RAG system (Kaggle Hackathon, 2nd place)
 
-# 🧠 ADM-LT 2024-2025 Hackathon - RAG System
+#  ADM-LT 2024-2025 Hackathon - RAG System
 
 This repository contains our 2nd-place winning solution for the ADM-LT 2024-2025 Hackathon on Kaggle. The task was to build a **Retrieval-Augmented Generation (RAG)** system to answer biomedical questions using a given corpus of documents.
 
@@ -21,7 +21,7 @@ We designed a hybrid pipeline combining:
 
 ---
 
-## 📁 Files
+##  Files
 
 - `notebook.ipynb` – main Kaggle notebook
 - `submission.csv` – final output
